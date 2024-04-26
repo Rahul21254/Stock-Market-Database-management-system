@@ -7,7 +7,9 @@ A DBMS project with GUI
  3)Can view data in tabular and graphical form.  
  4)Can export data in excel.  
 
-**Libraries used-**
- 1)tkinter- for GUI
- 2)sqlite3- for database operations
- 3)matplotlib- To represent data in graphical form
+
+      
+**Libraries used-**  
+ 1)tkinter- for GUI  
+ 2)sqlite3- for database operations  
+ 3)matplotlib- To represent data in graphical form  
