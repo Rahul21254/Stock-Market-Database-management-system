@@ -1,8 +1,8 @@
 # Stock-Market-Database-management-system
 A DBMS project with GUI
 
-**Functions-**/n
- 1)Can make multiple databases and manage them with ease./n
+**Functions-**\n
+ 1)Can make multiple databases and manage them with ease.\n
  2)Can add data./n
  3)Can view data in tabular and graphical form./n
  4)Can export data in excel./n
